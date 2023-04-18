@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Image Gallery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check it out:
+https://kirtanhadwani.github.io/Image-Gallery/
 
 ## Available Scripts
 
